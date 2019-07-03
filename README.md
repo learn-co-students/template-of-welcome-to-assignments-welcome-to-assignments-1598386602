@@ -26,11 +26,15 @@ If you've mastered a skill, assessments should tell you so you can move on confi
 
 Your teachers need to know what you know. That way, they can move on to the next topics if you are ready, or spend more time on what you need help with. Teachers need to know the progress of both individual students as well as the whole class. Our assessments are designed to give teachers the info they need to adjust what and how they teach.
 
-3. Provides feedback for the curriculum
+3. Informs the determination of your progression
+
+You may need more time with the material in order to master it. Assessments are one source of data that instructors and managers can use to determine how you progress through the program. This will work differently depending on the program - you should hear more about it in your orientation.
+
+4. Provides feedback for the curriculum
 
 The curriculum you see has been developed over years of iteration and testing. One important source of input into our curriculum is our measurement of how well students are learning. While you might not see the impact of your assessments on the curriculum immediately, assessments have a huge cumulative effect over time.
 
-4. Gives confidence to employers
+5. Gives confidence to employers
 
 Employers trust that Flatiron graduates are able to consistently perform at a given level. That's one of the reasons we're able to maintain the job placement rate and job guarantee that we do. While employers don't know the details of our assessments, having the assessments in place allows us to consistently promise that Flatiron grads will be successful on the job. 
 
