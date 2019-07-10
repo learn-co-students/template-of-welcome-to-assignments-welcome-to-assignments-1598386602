@@ -47,7 +47,7 @@ No assessment is perfect. Sometimes you'll have an off day, or (despite all our 
 
 ## Expectations for Flatiron
 
-To make assessments fair for you, we aim to meet certain expectations for our assessments and assessment process. Assessments should have *clear instructions*, *transparent rubrics*, *assistance with the process*, and *multiple opportunities*. 
+To make assessments fair for you, we aim to meet certain expectations for our assessments and assessment process. Assessments should have *clear instructions*, *assistance with the process*, and *multiple opportunities*. 
 
 ### Clear instructions
 
@@ -60,10 +60,6 @@ We aim to construct assessments with authentic tasks. We won't always be perfect
 You are encouraged to ask your instructors questions about the assessment process, requirements, and to help debug environment issues. 
 
 Instructors won't solve the assessment for you, but they can help ensure you don't get stuck on an environment issue.
-
-### Transparent Rubrics
-
-The rubrics we use to review and score assessments should be objective and transparent. When we can, we'll share the rubric with you ahead of time, so you know what we'll be looking for on the assessment.
 
 ### Multiple Opportunities
 
