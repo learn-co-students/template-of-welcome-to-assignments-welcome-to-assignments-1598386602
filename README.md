@@ -41,7 +41,7 @@ Employers trust that Flatiron graduates are able to consistently perform at a gi
 
 ## Assessment Validity
 
-'Assessment Validity' means that everyone can trust the assessment. In particular, good assessments should limit _false positives_ and _false negatives_. That means that assessments need to be challenging enough to actually measure what you know, but not so hard (or unclear) that you can't meet the deliverables despite knowing the right answer.
+'Assessment Validity' means that everyone can trust the assessment. In particular, good assessments should limit _false positives_ and _false negatives_. That means that assessments need to be challenging enough to actually measure what you know, but not so hard (or unclear) that you can't meet the deliverables of the challenge despite understanding the learning goals.
 
 No assessment is perfect. Sometimes you'll have an off day, or (despite all our efforts) the instructions won't be clear.  Recognizing that all assessments are imperfect, we take a few different measures to help ensure that they are fair and consistent.
 
