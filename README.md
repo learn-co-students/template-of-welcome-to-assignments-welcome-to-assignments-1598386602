@@ -86,7 +86,7 @@ You are also not allowed to reference old labs, code, and notes, even if they're
 
 ### Don't share answers
 
-You are not allowed to share the assessment or your solution. That means that you shouldn't sending it directly to someone or post it publicly online. Sharing the assessment or solution makes it harder for future students to get a fair chance at feedback.
+You are not allowed to share the assessment or your solution. That means that you shouldn't sending it directly to someone or post it publicly online in any format (public github repo, forum, blog, etc.). Sharing the assessment or solution makes it harder for future students to get a fair chance at feedback.
 
 ## Edit This Section
 
